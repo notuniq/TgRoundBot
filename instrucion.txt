@@ -1,0 +1,3 @@
+Установить зависимости pip install -r requirements.txt или pip install -r requirements.txt
+Настроить config.py
+Запустить бота python bot.py или python3 bot.py
